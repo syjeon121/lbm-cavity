@@ -1,4 +1,4 @@
-## Two dimensional cavity flow using LBM
-- this problem is calculated using LBM(Lattice boltzmann method)
+## Two dimensional cavity flow using LBMM(Lattice Boltzmann Method)
+- this problem is calculated using LBM
 - used cpu and gpu device
 
